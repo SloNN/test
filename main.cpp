@@ -1,4 +1,4 @@
 int main()
 {
-	int some_variable = 1;
+	int some_variable = 1;  
 }
